@@ -1,49 +1,60 @@
 <h1 align="center">Hi 👋, I'm Jithin</h1>
-<h3 align="center">A passionate full-stack developer who loves solving real-world problems with clean and scalable code.</h3>
+<h3 align="center">MERN Full Stack Developer | 2.5+ Years of Experience | Passionate about building scalable and impactful applications</h3>
+
+---
+
+### 👨‍💻 About Me
+
+With over 2.5 years of experience as a MERN Full Stack Developer, I specialize in building user-focused, scalable, and modern web applications. I’ve worked across **three different companies** and contributed to a wide range of projects involving frontend, backend, and cloud technologies.
+
+I'm passionate about writing clean, maintainable code and solving real-world problems. I believe in continuous learning and enjoy working in dynamic, team-based environments that promote innovation and knowledge sharing.
+
+---
+
+### 🚀 Tech Stack
+
+#### 💻 Backend
+- Node.js, Express.js, Nest.js
+- REST APIs, Socket.io, JSON
+- Mongoose, Sequelize
+- TypeScript, JavaScript
+- JWT, Stripe integration
+
+#### 🌐 Frontend
+- React.js, Redux Saga
+- JSX, JavaScript, Bootstrap
+
+#### 🛢️ Databases
+- MongoDB, PostgreSQL
+
+#### 🧰 Tools & Services
+- Git, GitHub, GitLab, Docker
+- AWS S3, AWS Lambda
+- SendGrid, Twilio, Auth0
+
+---
+
+### 🌱 Goals
+
+- 🔍 Looking for a challenging role where I can contribute and grow alongside the organization
+- 🚀 Seeking opportunities that encourage continuous learning and team collaboration
+- 💡 Passionate about keeping up with modern tech trends and best practices
+
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jithin-e-m-905574247/ )  
+- 📧 Email: jithinem2122@gmail.com
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Developer;Node.js+%7C+React+%7C+Sequelize;Problem+Solver+%7C+Lifelong+Learner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jithin-profile&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jithin-profile&theme=radical" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **scalable backend systems & modern frontend interfaces**
-- 🌱 I’m always learning **new technologies and best practices**
-- 💬 Ask me about **JavaScript, TypeScript, Node.js, React, Sequelize, MongoDB, PostgreSQL**
-- ⚡ Fun fact: I can code faster than I can reply to emails 😄
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jithin-profile&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jithin-profile&theme=tokyonight" />
-</p>
-
----
-
-### 📫 How to reach me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🧠 [Portfolio](https://your-portfolio.com)
-- 📧 jithin@example.com
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
