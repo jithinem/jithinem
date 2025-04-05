@@ -1,18 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Jithin+%F0%9F%91%8B;MERN+Full+Stack+Developer+with+2.5%2B+years+experience;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Jithin+%F0%9F%91%8B;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I’m a passionate and experienced **Full Stack Developer** with **2.5+ years** of hands-on experience in designing, developing, and deploying full-stack web applications using the **MERN stack** and other modern tools.
-
-I’ve worked with **3 companies** on various high-impact projects and thrive in team-based environments that encourage innovation, learning, and creativity.
-
-🚀 I aim to contribute to a fast-paced tech-driven company that values continuous learning and collaborative growth.
-
+I’m a passionate and experienced **Full Stack Developer** with hands-on experience in designing, developing, and deploying full-stack web applications using the **MERN stack** and other modern tools 🚀.
 ---
 
 ## 🔧 Tech Stack & Tools
@@ -59,9 +54,6 @@ I’ve worked with **3 companies** on various high-impact projects and thrive in
   </a>
   <a href="https://www.linkedin.com/in/jithin-e-m-905574247/ " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
