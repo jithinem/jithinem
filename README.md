@@ -45,7 +45,7 @@ I’ve worked with **3 companies** on various high-impact projects and thrive in
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jithin-profile&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jithinem&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jithin-profile&theme=tokyonight&hide_border=true" />
 </p>
 
