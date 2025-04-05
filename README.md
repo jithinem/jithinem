@@ -1,6 +1,12 @@
 <!-- Banner -->
+<h1 align="center">👋 Hey there! I'm Jithin</h1>
+<h3 align="center">Full Stack Developer | MERN | Experienced | Tech Enthusiast 🚀</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Jithin+%F0%9F%91%8B;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933" />
+  <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
 </p>
 
 ---
