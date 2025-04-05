@@ -1,60 +1,79 @@
-<h1 align="center">Hi 👋, I'm Jithin</h1>
-<h3 align="center">MERN Full Stack Developer | 2.5+ Years of Experience | Passionate about building scalable and impactful applications</h3>
-
----
-
-### 👨‍💻 About Me
-
-With over 2.5 years of experience as a MERN Full Stack Developer, I specialize in building user-focused, scalable, and modern web applications. I’ve worked across **three different companies** and contributed to a wide range of projects involving frontend, backend, and cloud technologies.
-
-I'm passionate about writing clean, maintainable code and solving real-world problems. I believe in continuous learning and enjoy working in dynamic, team-based environments that promote innovation and knowledge sharing.
-
----
-
-### 🚀 Tech Stack
-
-#### 💻 Backend
-- Node.js, Express.js, Nest.js
-- REST APIs, Socket.io, JSON
-- Mongoose, Sequelize
-- TypeScript, JavaScript
-- JWT, Stripe integration
-
-#### 🌐 Frontend
-- React.js, Redux Saga
-- JSX, JavaScript, Bootstrap
-
-#### 🛢️ Databases
-- MongoDB, PostgreSQL
-
-#### 🧰 Tools & Services
-- Git, GitHub, GitLab, Docker
-- AWS S3, AWS Lambda
-- SendGrid, Twilio, Auth0
-
----
-
-### 🌱 Goals
-
-- 🔍 Looking for a challenging role where I can contribute and grow alongside the organization
-- 🚀 Seeking opportunities that encourage continuous learning and team collaboration
-- 💡 Passionate about keeping up with modern tech trends and best practices
-
----
-
-### 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jithin-e-m-905574247/ )  
-- 📧 Email: jithinem2122@gmail.com
-
----
-
-### 📊 GitHub Stats
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jithin-profile&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jithin-profile&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Jithin+%F0%9F%91%8B;MERN+Full+Stack+Developer+with+2.5%2B+years+experience;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
+## 🙋‍♂️ About Me
+
+I’m a passionate and experienced **Full Stack Developer** with **2.5+ years** of hands-on experience in designing, developing, and deploying full-stack web applications using the **MERN stack** and other modern tools.
+
+I’ve worked with **3 companies** on various high-impact projects and thrive in team-based environments that encourage innovation, learning, and creativity.
+
+🚀 I aim to contribute to a fast-paced tech-driven company that values continuous learning and collaborative growth.
+
+---
+
+## 🔧 Tech Stack & Tools
+
+### 💻 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?style=flat-square&logo=redux-saga&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+### 🛢️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### ⚙️ Other Tools & Services
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jithin-profile&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jithin-profile&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:jithinem2122@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jithin-e-m-905574247/ " target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Facts
+
+- 🌱 I’m always improving and learning new technologies.
+- 🤝 I love working in collaborative teams and agile environments.
+- 🧠 I enjoy solving complex backend problems and building intuitive UIs.
+- ⚡ I drink code for breakfast ☕
+
+---
+
+> **"Code is not just code, it's craft."**
